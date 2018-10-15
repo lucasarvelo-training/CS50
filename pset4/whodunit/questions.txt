@@ -1,0 +1,12 @@
+1.  It's a header shall to declare of integers with a specific number of bits for storage in binary system
+2.  Allocate a specific amount of memory of 8, 16, 32 and 64 bits respectively to save integer numbers and thus have greater control over the memory in use
+3.  1, 4, 4, 2
+4.  0x42 0x4D
+5.  bfSize is the size, in bytes, of the bitmap file and biSize is the number of bytes required by the structure
+6.  If biHeight is negative, the bitmap is origin on the upper-left corner.
+7.  biBitCount
+8.  If can't read the input file or can't create the output file
+9.  Because we are reading only on element, a pixel.
+10. 3
+11. sets the file position of the stream to the given offset.
+12. specifies that the offset provided in fseek() is relative to the current file position.
